@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">engineering school student in France</p>
+<p align="left">engineering student in France</p>
 
 ###
 
